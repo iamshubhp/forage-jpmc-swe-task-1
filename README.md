@@ -63,5 +63,6 @@ To apply the patch:
 
 git apply changes.patch
 
-Contact
+Contact:
+
 Feel free to reach out if you have any questions or issues. You can fork the repo and submit a pull request if you’d like to contribute!
